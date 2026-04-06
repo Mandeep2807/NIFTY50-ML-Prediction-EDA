@@ -100,6 +100,9 @@ Models were evaluated using standard regression metrics such as error comparison
 
 ![Distribution](outputs/closing_price_distribution.png)
 
+## Visual Insights
+Key visualizations highlighting market trends, correlations, model performance and other important  are included in the outputs folder and explained in detail within the notebook.
+
 ## How to Run
 
 1. Clone the repository
