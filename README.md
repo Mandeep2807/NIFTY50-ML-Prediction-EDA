@@ -68,7 +68,7 @@ The following machine learning models were implemented:
 
 * Linear Regression
 * Decision Tree Regressor
-* Random Forest Regressor
+
 
 ### 5. Model Evaluation
 
@@ -79,8 +79,7 @@ Models were evaluated using standard regression metrics such as error comparison
 | Model             | Observation                                                                  |
 | ----------------- | ---------------------------------------------------------------------------- |
 | Linear Regression | Provides a stable baseline with limited ability to capture non-linear trends |
-| Decision Tree     | Captures patterns better but prone to overfitting                            |
-| Random Forest     | Shows improved performance with better generalization                        |
+| Decision Tree     | Captures patterns better but prone to overfitting                            |                        |
 
 ## Visual Analysis
 
@@ -131,7 +130,6 @@ Key visualizations highlighting market trends, correlations, model performance a
 
 * Identified key trends and seasonal patterns in NIFTY50
 * Observed correlations between price-related features
-* Random Forest performed best among tested models
 * Demonstrated the effectiveness of combining EDA with machine learning
 
 ## Future Work
